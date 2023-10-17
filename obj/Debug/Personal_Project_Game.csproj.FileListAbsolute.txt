@@ -1,0 +1,40 @@
+D:\Persoanl_Project_Game\Personal_Project_Game\bin\Debug\Personal_Project_Game.exe.config
+D:\Persoanl_Project_Game\Personal_Project_Game\bin\Debug\Personal_Project_Game.exe
+D:\Persoanl_Project_Game\Personal_Project_Game\bin\Debug\Personal_Project_Game.pdb
+D:\Persoanl_Project_Game\Personal_Project_Game\obj\Debug\Personal_Project_Game.csproj.AssemblyReference.cache
+D:\Persoanl_Project_Game\Personal_Project_Game\obj\Debug\Personal_Project_Game.Form1.resources
+D:\Persoanl_Project_Game\Personal_Project_Game\obj\Debug\Personal_Project_Game.Properties.Resources.resources
+D:\Persoanl_Project_Game\Personal_Project_Game\obj\Debug\Personal_Project_Game.csproj.GenerateResource.cache
+D:\Persoanl_Project_Game\Personal_Project_Game\obj\Debug\Personal_Project_Game.csproj.CoreCompileInputs.cache
+D:\Persoanl_Project_Game\Personal_Project_Game\obj\Debug\Personal_Project_Game.exe
+D:\Persoanl_Project_Game\Personal_Project_Game\obj\Debug\Personal_Project_Game.pdb
+C:\Users\Admin\Desktop\Persoanl_Project_Game\Personal_Project_Game\bin\Debug\Personal_Project_Game.exe.config
+C:\Users\Admin\Desktop\Persoanl_Project_Game\Personal_Project_Game\bin\Debug\Personal_Project_Game.exe
+C:\Users\Admin\Desktop\Persoanl_Project_Game\Personal_Project_Game\bin\Debug\Personal_Project_Game.pdb
+C:\Users\Admin\Desktop\Persoanl_Project_Game\Personal_Project_Game\obj\Debug\Personal_Project_Game.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Persoanl_Project_Game\Personal_Project_Game\obj\Debug\Personal_Project_Game.Form1.resources
+C:\Users\Admin\Desktop\Persoanl_Project_Game\Personal_Project_Game\obj\Debug\Personal_Project_Game.Properties.Resources.resources
+C:\Users\Admin\Desktop\Persoanl_Project_Game\Personal_Project_Game\obj\Debug\Personal_Project_Game.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Persoanl_Project_Game\Personal_Project_Game\obj\Debug\Personal_Project_Game.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Persoanl_Project_Game\Personal_Project_Game\obj\Debug\Personal_Project_Game.exe
+C:\Users\Admin\Desktop\Persoanl_Project_Game\Personal_Project_Game\obj\Debug\Personal_Project_Game.pdb
+E:\Persoanl_Project_Game\Personal_Project_Game\bin\Debug\Personal_Project_Game.exe.config
+E:\Persoanl_Project_Game\Personal_Project_Game\bin\Debug\Personal_Project_Game.exe
+E:\Persoanl_Project_Game\Personal_Project_Game\bin\Debug\Personal_Project_Game.pdb
+E:\Persoanl_Project_Game\Personal_Project_Game\obj\Debug\Personal_Project_Game.csproj.AssemblyReference.cache
+E:\Persoanl_Project_Game\Personal_Project_Game\obj\Debug\Personal_Project_Game.Form1.resources
+E:\Persoanl_Project_Game\Personal_Project_Game\obj\Debug\Personal_Project_Game.Properties.Resources.resources
+E:\Persoanl_Project_Game\Personal_Project_Game\obj\Debug\Personal_Project_Game.csproj.GenerateResource.cache
+E:\Persoanl_Project_Game\Personal_Project_Game\obj\Debug\Personal_Project_Game.csproj.CoreCompileInputs.cache
+E:\Persoanl_Project_Game\Personal_Project_Game\obj\Debug\Personal_Project_Game.exe
+E:\Persoanl_Project_Game\Personal_Project_Game\obj\Debug\Personal_Project_Game.pdb
+C:\Users\ssb92\Desktop\이력서\프로젝트\C# 물리\Personal_Project_Game\bin\Debug\Personal_Project_Game.exe.config
+C:\Users\ssb92\Desktop\이력서\프로젝트\C# 물리\Personal_Project_Game\bin\Debug\Personal_Project_Game.exe
+C:\Users\ssb92\Desktop\이력서\프로젝트\C# 물리\Personal_Project_Game\bin\Debug\Personal_Project_Game.pdb
+C:\Users\ssb92\Desktop\이력서\프로젝트\C# 물리\Personal_Project_Game\obj\Debug\Personal_Project_Game.csproj.AssemblyReference.cache
+C:\Users\ssb92\Desktop\이력서\프로젝트\C# 물리\Personal_Project_Game\obj\Debug\Personal_Project_Game.Form1.resources
+C:\Users\ssb92\Desktop\이력서\프로젝트\C# 물리\Personal_Project_Game\obj\Debug\Personal_Project_Game.Properties.Resources.resources
+C:\Users\ssb92\Desktop\이력서\프로젝트\C# 물리\Personal_Project_Game\obj\Debug\Personal_Project_Game.csproj.GenerateResource.cache
+C:\Users\ssb92\Desktop\이력서\프로젝트\C# 물리\Personal_Project_Game\obj\Debug\Personal_Project_Game.csproj.CoreCompileInputs.cache
+C:\Users\ssb92\Desktop\이력서\프로젝트\C# 물리\Personal_Project_Game\obj\Debug\Personal_Project_Game.exe
+C:\Users\ssb92\Desktop\이력서\프로젝트\C# 물리\Personal_Project_Game\obj\Debug\Personal_Project_Game.pdb
